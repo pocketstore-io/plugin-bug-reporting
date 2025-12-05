@@ -1,0 +1,6 @@
+{
+  "vendor": "pocketstore-io",
+  "name": "bug-reporting",
+  "type": "plugin",
+  "prio": 90
+}
