@@ -1,5 +1,5 @@
 <template>
-  <button @click="toggle()" class="btn btn-neutral w-16 h-16 fixed bottom-3 right-20 rounded-full z-10">
+  <button @click="toggle()" class="btn btn-neutral w-16 h-16 fixed bottom-3 right-38 rounded-full z-10">
     <font-awesome-icon :icon="['fas', 'camera']" size="2x"/>
   </button>
 
